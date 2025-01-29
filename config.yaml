@@ -1,12 +1,12 @@
 ---
 id: burikaigi2025-lt-ossgate
 base_name: burikaigi2025-lt-ossgate
-tags: []
+tags: [burikaigi, oss_gate, clear-code]
 presentation_date: 
 presentation_start_time: 
 presentation_end_time: 
 version: 1.0.0
-licenses: []
+licenses: [Apache-2.0]
 slideshare_id: 
 speaker_deck_id: 
 vimeo_id: 
@@ -16,8 +16,8 @@ height: 1080
 source_code_uri: 
 author:
   markup_language: :markdown
-  name: 
-  email: 
-  rubygems_user: 
+  name: Daijiro Fukuda
+  email: fukuda@clear-code.com
+  rubygems_user: daipom
   slideshare_user: 
   speaker_deck_user: 
