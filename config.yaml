@@ -13,7 +13,7 @@ vimeo_id:
 youtube_id: 
 width: 1920
 height: 1080
-source_code_uri: 
+source_code_uri: https://github.com/daipom/burikaigi2025-lt-ossgate
 author:
   markup_language: :markdown
   name: Daijiro Fukuda
