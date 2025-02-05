@@ -179,7 +179,7 @@ OSSの門？
 * 公式ウェブサイト
   * {::note}<https://oss-gate.github.io/>{:/note}
 * コミュニティーチャット
-  * {::note}<https://oss-gate.github.io/>{:/note}
+  * {::note}<https://matrix.to/#/#oss-gate:matrix.org>{:/note}
 * 直近のワークショップ開催予定
   * {::note}<https://oss-gate.doorkeeper.jp/events/upcoming>{:/note}
 * みなさまの感想・ブログ
