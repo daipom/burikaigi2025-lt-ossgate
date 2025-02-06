@@ -138,14 +138,12 @@ OSSの門？
 
 # 企業様とコラボ
 
-# フィヨルドブートキャンプ様とコラボ開催
+# フィヨルドブートキャンプ様とコラボ
 
 詳しくは次のブログを！
 
-* オンラインプログラミングスクールのフィヨルドブートキャンプとOSS Gateのコラボレーション企画開催！！
-  * {::note}<https://bootcamp.fjord.jp/articles/80>{:/note}
-* フィヨルドブートキャンプ様とOSS Gateワークショップをコラボ実施しました！
-  * {::note}<https://www.clear-code.com/blog/2024/2/2/ossgate-workshop-with-fjord-boot-camp.html>{:/note}
+* {::note}<https://bootcamp.fjord.jp/articles/80>{:/note}
+* {::note}<https://www.clear-code.com/blog/2024/2/2/ossgate-workshop-with-fjord-boot-camp.html>{:/note}
 
 # OSS Gateオンボーディング
 
